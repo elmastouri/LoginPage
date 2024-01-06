@@ -8,31 +8,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa847001-5186-497d-ac1c-792755a3a7be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/FindElementNotFound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/Alerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/DragAndDrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/ExplicitWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/FindElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/HoverOver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/Iframes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/ImplicitWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/JavaScriptExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/KeyBordAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/MouseInteraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/PageNavigation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/RadioButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/SelectClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/WindowHandel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/pageLoadTimeout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="fa847001-5186-497d-ac1c-792755a3a7be" name="Changes" comment="maven-junit.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/justforpractice/SeleniumIntro1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/justforpractice/SeleniumIntro1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/justforpractice/SeleniumPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/justforpractice/SeleniumPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/models/BankAccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/models/BankAccountTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/steps/TransferSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/TransferSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/HowToRunScenarios.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/HowToRunScenarios.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,57 +40,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Alerts.executor": "Run",
-    "Application.DragAndDrop.executor": "Run",
-    "Application.ExplicitWait.executor": "Run",
-    "Application.FindElementNotFound.executor": "Run",
-    "Application.FindElements.executor": "Run",
-    "Application.FluentWaits.executor": "Debug",
-    "Application.HoverOver.executor": "Run",
-    "Application.Iframes.executor": "Run",
-    "Application.ImplicitWait.executor": "Run",
-    "Application.JavaScriptExecutor.executor": "Run",
-    "Application.KeyBordAction.executor": "Run",
-    "Application.MouseInteraction.executor": "Run",
-    "Application.PageNavigation.executor": "Run",
-    "Application.RadioButton.executor": "Run",
-    "Application.SelectClass.executor": "Run",
-    "Application.SeleniumIntro1.executor": "Run",
-    "Application.UploadFile.executor": "Run",
-    "Application.WindowHandel.executor": "Run",
-    "Application.pageLoadTimeout.executor": "Run",
-    "Cucumber Java.All Features in: maven-junit.executor": "Run",
-    "Cucumber Java.Scenario: Money transfer with insufficient fund (1).executor": "Debug",
-    "Cucumber Java.Scenario: Money transfer with insufficient fund.executor": "Run",
-    "JUnit.BankAccountTest.executor": "Run",
-    "JUnit.SeleniumPractice.executor": "Run",
-    "JUnit.SeleniumPractice.test1.executor": "Run",
-    "JUnit.java in Maven-Junit.executor": "Profiler#1",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "Maven.digital-bank-acceptance-tests [clean].executor": "Run",
-    "Maven.digital-bank-acceptance-tests [install].executor": "Run",
-    "Maven.digital-bank-acceptance-tests [test].executor": "Run",
-    "Maven.digital-bank-acceptance-tests [verify].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Alerts.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DragAndDrop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExplicitWait.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindElementNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FluentWaits.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.HoverOver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Iframes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ImplicitWait.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaScriptExecutor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KeyBordAction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MouseInteraction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PageNavigation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RadioButton.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SelectClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SeleniumIntro1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UploadFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WindowHandel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pageLoadTimeout.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.All Features in: maven-junit.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Money transfer with insufficient fund (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Cucumber Java.Scenario: Money transfer with insufficient fund.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BankAccountTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SeleniumPractice.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SeleniumPractice.test1.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.java in Maven-Junit.executor&quot;: &quot;Profiler#1&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.digital-bank-acceptance-tests [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.digital-bank-acceptance-tests [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.digital-bank-acceptance-tests [test].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.digital-bank-acceptance-tests [verify].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Alerts">
     <configuration name="Alerts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="justforpractice.Alerts" />
@@ -265,8 +242,18 @@
       <workItem from="1703976848057" duration="2768000" />
       <workItem from="1703990442124" duration="15367000" />
       <workItem from="1704054150937" duration="8531000" />
-      <workItem from="1704417368623" duration="3332000" />
+      <workItem from="1704417368623" duration="4857000" />
+      <workItem from="1704501944463" duration="3755000" />
     </task>
+    <task id="LOCAL-00001" summary="maven-junit.">
+      <option name="closed" value="true" />
+      <created>1704499778797</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704499778797</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,6 +281,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="maven-junit." />
+    <option name="LAST_COMMIT_MESSAGE" value="maven-junit." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
