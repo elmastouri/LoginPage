@@ -1,30 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa847001-5186-497d-ac1c-792755a3a7be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/services/BankingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/xml/xml-tutorial.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/models/BankAccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/FirstCucumberDemo.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/HowToRunScenarios.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FindElementNotFound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/DragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/ExplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/FindElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/HoverOver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/Iframes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/ImplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/JavaScriptExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/KeyBordAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/MouseInteraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/PageNavigation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/RadioButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/SelectClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/WindowHandel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/pageLoadTimeout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/justforpractice/SeleniumIntro1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/justforpractice/SeleniumIntro1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/justforpractice/SeleniumPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/justforpractice/SeleniumPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/models/BankAccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/models/BankAccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/TransferSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/TransferSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/HowToRunScenarios.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/HowToRunScenarios.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExportToHTMLSettings">
+    <option name="PRINT_LINE_NUMBERS" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2aA2ObmmN22YqwPngDIi0Hhzziv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -33,15 +65,151 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Alerts.executor": "Run",
+    "Application.DragAndDrop.executor": "Run",
+    "Application.ExplicitWait.executor": "Run",
+    "Application.FindElementNotFound.executor": "Run",
+    "Application.FindElements.executor": "Run",
+    "Application.FluentWaits.executor": "Debug",
+    "Application.HoverOver.executor": "Run",
+    "Application.Iframes.executor": "Run",
+    "Application.ImplicitWait.executor": "Run",
+    "Application.JavaScriptExecutor.executor": "Run",
+    "Application.KeyBordAction.executor": "Run",
+    "Application.MouseInteraction.executor": "Run",
+    "Application.PageNavigation.executor": "Run",
+    "Application.RadioButton.executor": "Run",
+    "Application.SelectClass.executor": "Run",
+    "Application.SeleniumIntro1.executor": "Run",
+    "Application.UploadFile.executor": "Run",
+    "Application.WindowHandel.executor": "Run",
+    "Application.pageLoadTimeout.executor": "Run",
+    "Cucumber Java.All Features in: maven-junit.executor": "Run",
+    "Cucumber Java.Scenario: Money transfer with insufficient fund (1).executor": "Debug",
+    "Cucumber Java.Scenario: Money transfer with insufficient fund.executor": "Run",
+    "JUnit.BankAccountTest.executor": "Run",
+    "JUnit.SeleniumPractice.executor": "Run",
+    "JUnit.SeleniumPractice.test1.executor": "Run",
+    "JUnit.java in Maven-Junit.executor": "Profiler#1",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.digital-bank-acceptance-tests [clean].executor": "Run",
+    "Maven.digital-bank-acceptance-tests [install].executor": "Run",
+    "Maven.digital-bank-acceptance-tests [test].executor": "Run",
+    "Maven.digital-bank-acceptance-tests [verify].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Alerts">
+    <configuration name="Alerts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="justforpractice.Alerts" />
+      <module name="Maven-Junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="justforpractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Iframes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="justforpractice.Iframes" />
+      <module name="Maven-Junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="justforpractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaScriptExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="justforpractice.JavaScriptExecutor" />
+      <module name="Maven-Junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="justforpractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeyBordAction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="justforpractice.KeyBordAction" />
+      <module name="Maven-Junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="justforpractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowHandel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="justforpractice.WindowHandel" />
+      <module name="Maven-Junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="justforpractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: HowToRunScenarios" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-21" />
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/HowToRunScenarios.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Maven-Junit" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <shortenClasspath name="NONE" />
+      <option name="SUGGESTED_NAME" value="Feature: HowToRunScenarios" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Alerts" />
+        <item itemvalue="Application.Iframes" />
+        <item itemvalue="Application.WindowHandel" />
+        <item itemvalue="Application.JavaScriptExecutor" />
+        <item itemvalue="Application.KeyBordAction" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -57,11 +225,88 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703747032413</updated>
-      <workItem from="1703747034050" duration="3000" />
+      <workItem from="1703747034050" duration="186000" />
+      <workItem from="1703747226265" duration="13000" />
+      <workItem from="1703747246430" duration="6000" />
+      <workItem from="1703747259186" duration="16000" />
+      <workItem from="1703747306144" duration="129000" />
+      <workItem from="1703747439494" duration="62000" />
+      <workItem from="1703747505343" duration="61000" />
+      <workItem from="1703747571028" duration="2000" />
+      <workItem from="1703747576455" duration="312000" />
+      <workItem from="1703747893367" duration="57000" />
+      <workItem from="1703747974452" duration="612000" />
+      <workItem from="1703748590523" duration="469000" />
+      <workItem from="1703749062474" duration="663000" />
+      <workItem from="1703749729390" duration="82000" />
+      <workItem from="1703749812725" duration="73000" />
+      <workItem from="1703749887771" duration="1679000" />
+      <workItem from="1703754050618" duration="24000" />
+      <workItem from="1703754144273" duration="1581000" />
+      <workItem from="1703755731131" duration="172000" />
+      <workItem from="1703755908513" duration="16000" />
+      <workItem from="1703755936455" duration="43000" />
+      <workItem from="1703755985326" duration="96000" />
+      <workItem from="1703756086630" duration="202000" />
+      <workItem from="1703786828527" duration="2458000" />
+      <workItem from="1703789294100" duration="6822000" />
+      <workItem from="1703796329710" duration="250000" />
+      <workItem from="1703796606778" duration="1809000" />
+      <workItem from="1703799828668" duration="1126000" />
+      <workItem from="1703801301292" duration="137000" />
+      <workItem from="1703801444785" duration="56000" />
+      <workItem from="1703801852450" duration="854000" />
+      <workItem from="1703802713935" duration="3100000" />
+      <workItem from="1703825780719" duration="257000" />
+      <workItem from="1703826040898" duration="2205000" />
+      <workItem from="1703892775474" duration="8739000" />
+      <workItem from="1703903506174" duration="2419000" />
+      <workItem from="1703906033139" duration="13688000" />
+      <workItem from="1703976848057" duration="2768000" />
+      <workItem from="1703990442124" duration="15367000" />
+      <workItem from="1704054150937" duration="8531000" />
+      <workItem from="1704417368623" duration="3332000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="io.cucumber.core.exception.CompositeCucumberException" package="io.cucumber.core.exception" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
